@@ -21,6 +21,7 @@ if __name__ == '__main__':
         print("Factorial of 0 is 1")
     else:
         print("Factorial of", x, "is: ", factorial_calc(x))
+        
 
     # After you are satisfied with your results, use input() to prompt the user for a value:
     #num = input("Enter value to factorialize: ")
