@@ -11,7 +11,6 @@ def factorial_calc(x):
         for i in range (1, x+1):
             fac= fac * i
         return fac
-        
 
 
 
