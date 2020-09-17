@@ -1,4 +1,4 @@
-# Collaborators: https://beginnersbook.com/2018/02/python-program-to-find-factorial-of-number/
+# Collaborators: https://beginnersbook.com/2018/02/python-program-to-find-factorial-of-number/, Megan Leich
 #  
 
 def factorial_calc(x):
